@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: NLP Amsterdam
-datePublished: '2016-05-05T18:02:31.277Z'
-dateModified: '2016-05-05T18:02:28.167Z'
+datePublished: '2016-05-05T18:04:39.905Z'
+dateModified: '2016-05-05T18:03:04.457Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-nlp-amsterdam.md
