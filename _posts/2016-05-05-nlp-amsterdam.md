@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: NLP Amsterdam
-datePublished: '2016-05-05T18:01:35.102Z'
-dateModified: '2016-05-05T18:01:18.556Z'
+datePublished: '2016-05-05T18:02:31.277Z'
+dateModified: '2016-05-05T18:02:28.167Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-nlp-amsterdam.md
@@ -21,8 +21,11 @@ url: nlp-amsterdam/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d26b3e82-b4c3-4ce1-a6d2-e15480cd4808.jpg)
+
 [NLP Amsterdam][0]
 
-NLP Magick
+[NLP Magick][1]
 
 [0]: http://nlp.amsterdam/
+[1]: http://nlpmagick.net/
